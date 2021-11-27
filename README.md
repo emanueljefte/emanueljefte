@@ -3,6 +3,7 @@
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript
 - 💞️ Estou aberto para colaborar com todos, tem uma ideia estou aqui!
 - 📫 É possível me contactar pelo e-mail: emanueldinganijoao13@gamil.com
+- Pelo Facebook: www,facebook.com/emanuel.jefte.3
 
 <!---
 emanueljefte/emanueljefte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
