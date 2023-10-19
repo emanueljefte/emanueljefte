@@ -1,0 +1,427 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+body {
+    background-color: #000;
+    height: 100vh;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.active {
+    border-bottom: 1px solid rgb(32, 32, 175);
+    color: rgb(32, 32, 175);
+}
+
+.flex {
+    display: flex;
+}
+
+.titulo {
+    color: #fff;
+    font-size: 38px;
+    text-align: center;
+}
+
+.titulo span {
+    color: blue;
+}
+
+button:hover, form .btn-enviar input:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 255, 0.76);
+    transform: scale(1.05);
+}
+
+/* ----------------- HEADER -------------------- */
+header {
+    padding: 0 4%;
+}
+header > .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav.menu-desktop ul li {
+    display: inline-block;
+    padding: 0 40px;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    transition: .2s;
+    display: inline-block;   
+}
+
+header a:hover {
+    color: rgb(0, 0, 255);
+    transform: scale(1.05);
+}
+
+/* MENU MOBILE */
+.menu-mobile, .btn-abrir {
+    display: none;
+}
+.btn button {
+    padding: 20px 40px;
+    background-color: blue;
+    border: 0;
+    border-radius: 40px;
+    color: #000;
+    font-size: 18px;
+    font-weight: 700;
+    transition: .2s;
+}
+
+
+/* -------------------- MAIN ------------------------------ */
+
+.topo-do-site {
+    padding: 40px 4%;
+}
+
+.topo-do-site .flex {
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+}
+
+.topo-do-site .txt-topo-do-site {
+    color: #fff;
+}
+
+.topo-do-site .txt-topo-do-site h1 {
+    font-size: 42px;
+}
+
+.topo-do-site .txt-topo-do-site p {
+    margin: 20px 0;
+}
+
+.img-topo-do-site img{
+    width: 100%;
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+}
+
+@keyframes flutuar {
+    0% {
+        top: 0;
+    }
+    100% {
+        top: 30px;
+    }
+}
+
+/* --------------- -------------------- */
+.especialidades {
+    padding: 40px 4%;
+}
+.especialidades h2 {
+    margin: 20px 0;
+}
+.especialidades .flex {
+    gap: 30px;
+}
+
+.especialidades .especialidades-box {
+    color: #fff;
+    padding: 40px;
+    transition: .2s;
+}
+
+.especialidades .especialidades-box:hover {
+    box-shadow: 0 0 20px #fff;
+    border-radius: 25px;
+    transform: scale(1.05);
+}
+
+.especialidades .especialidades-box h3 {
+    margin: 10px 0;
+    font-size: 28px;
+}
+
+/* ------------------------- ----------------------- */
+.sobre {
+    padding: 40px 4%;
+}
+
+.sobre .flex {
+    align-items: center;
+    gap: 30px;
+}
+
+.sobre .txt-sobre {
+    color: #fff;
+}
+
+.sobre .txt-sobre h2 {
+    font-size: 38px;
+    line-height: 35px;
+}
+
+.sobre .txt-sobre h2 span {
+    display: block;
+    color: blue;
+}
+
+.sobre .txt-sobre p {
+    margin: 20px 0;
+    text-align: justify;
+}
+
+.sobre .txt-sobre .btn-social button {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: blue;
+    border: 0;
+    margin: 0 10px;
+    transition: .2s;
+}
+
+.sobre .txt-sobre .btn-social button img {
+    width: 20px;
+}
+
+/* ----------------- ----------------------------- */
+
+.portfolio {
+    padding: 60px 4%;
+    box-shadow: 0 0 30px 5px #ffffff81;
+}
+
+.portfolio .flex {
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.img-portfolio {
+    width: 300px;
+    height: 340px;
+    background-size: cover;
+    background-position: 100% 0%;
+    border-radius: 40px;
+    transition: 5s;
+    position: relative;
+    margin-top: 40px;
+}
+
+.img-portfolio:hover {
+    background-position: 100% 100%;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #00000093;
+    color: #fff;
+    border-radius: 40px;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: .5s;
+}
+
+.portfolio .img-portfolio .overlay:hover {
+    opacity: 1;
+}
+
+/* ----------------- FORMULARIO -------------------- */
+.formulario {
+    padding: 60px 4%;
+}
+
+form {
+    margin: 20px auto;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+form input, form textarea {
+    background-color: #2e2d2dec;
+    color: #fff;
+    border-radius: 20px;
+    padding: 20px 15px;
+    border: 0;
+    outline: none;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+form textarea {
+    resize: none;
+    height: 200px;
+}
+
+form .btn-enviar {
+    text-align: center;
+}
+
+form .btn-enviar input {
+    width: 120px;
+    background-color: #00f;
+    color: #000;
+    
+}
+
+@media screen and (max-width: 1020px) {
+    /* GERAIS */
+    .flex {
+        flex-direction: column;
+    }
+
+    /* TOPO */
+    .topo-do-site .flex {
+        flex-direction: column-reverse;
+    }
+
+    .img-topo-do-site img{
+        max-width: 100%;
+    }
+
+    .topo-do-site {
+        padding: 20px 8%;
+    }
+    
+    .topo-do-site .flex {
+        gap: 50px;
+    }
+
+    .topo-do-site .txt-topo-do-site h1 {
+        font-size: 32px;
+    }
+
+    .topo-do-site .btn {
+        text-align: center;
+    }      
+
+    /* ESPECIALIDADE */
+    .especialidades {
+        padding: 20px 8%;
+    }
+
+    .especialidades .flex {
+        gap: 20px;
+    }
+    
+
+    /* SOBRE */
+    .sobre {
+        padding: 20px 8%;
+    }
+    
+    .sobre .flex {
+        gap: 10px;
+    }
+
+    .sobre .txt-sobre h2 {
+        font-size: 30px;
+        line-height: 27px;
+    }
+
+    .btn-social {
+        text-align: center;
+    }
+
+    /* PORTFOLIO */
+    .portfolio {
+        padding: 20px 8%;
+    }
+
+    .img-portfolio {
+        width: 100%;
+        max-width: 360px;
+        margin: 0 auto ;
+    }
+
+    .portfolio .flex {
+        gap: 30px;
+    }
+    /* RESPONSIVO */
+    .menu-desktop, header .btn {
+        display: none;
+    }
+
+    .menu-mobile, .btn-abrir {
+        display: block;
+    }
+
+    .btn-abrir {
+        cursor: pointer;
+    }
+
+    .btn-abrir img{
+        width: 30px;
+    }
+    
+    .menu-mobile {
+        height: 100vh;
+        background-color: #000;
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 0%;
+        overflow: hidden;
+        z-index: 99999;
+        transition: .2s;
+    }
+    
+    .abrir-menu {
+        width: 70%;
+    }
+    
+    .abrir-menu ~ .overlay-menu {
+        display: block;
+    }
+    
+    .menu-mobile .btn-fechar img {
+        padding: 20px 5%;
+        width: 30px;
+    }
+    
+    .menu-mobile nav ul {
+        text-align: right;
+    
+    }
+    .menu-mobile nav ul li a {
+        font-size: 20px;
+        font-weight: 500;
+        padding: 20px 4%;
+        display: block;
+    }
+    
+    .menu-mobile nav ul li a:hover {
+        color: #000;
+        background-color: #00f;
+    }
+    .overlay-menu {
+        background-color: #00000094;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 88888;
+        display: none;
+    }
+}
