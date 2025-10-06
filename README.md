@@ -3,7 +3,6 @@
 - Pelo Instagram: www.instagram.com/emanuel_dingani/
 - Pelo Linkedin: www.linkedin.com/in/emanuel-jeft%C3%A9-dingani-jo%C3%A3o/ -->
 
-
 # 👩🏻‍💻 Emanuel Jefté
 
 **`Desenvolvedor FullStack`**
@@ -55,14 +54,16 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<!-- <img 
-    align="left" 
+
+<!-- <img
+    align="left"
     alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 /> -->
+
 <img 
     align="left" 
     alt="React"
@@ -87,13 +88,14 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" 
 />
-<!-- <img 
-    align="left" 
-    alt="Next.js" 
+
+<!-- <img
+    align="left"
+    alt="Next.js"
     title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 /> -->
 
 <img 
@@ -120,14 +122,16 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<!-- <img 
-    align="left" 
-    alt="Laravel" 
+
+<!-- <img
+    align="left"
+    alt="Laravel"
     title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
 /> -->
+
 <img 
     align="left" 
     alt="Git" 
@@ -176,12 +180,9 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="250" 
-      style="padding-top: 20px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueljefte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    style="padding-top: 20px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueljefte&theme=tokyonight&layout=pie&custom_title=Tecnologias&langs_count=12"
+  alt="Tecnologias (pie chart)"
+/>
 
 </p>
-
