@@ -91,7 +91,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     title="React-Native" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react-native/react-native-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
 />
 
 <img 
@@ -110,6 +110,15 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Exporess"
+    title="Express" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
 />
 
 <img 
