@@ -64,7 +64,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img
     alt="TypeScript"
     title="TypeScript"
@@ -72,7 +71,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
-
 <img 
     alt="React"
     title="React" 
@@ -80,7 +78,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img 
     alt="React-Native"
     title="React-Native" 
@@ -88,7 +85,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
 />
-
 <img 
     alt="Expo"
     title="Expo" 
@@ -96,7 +92,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" 
 />
-
 <img  
     alt="NodeJS"
     title="NodeJS" 
@@ -104,7 +99,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
-
 <img  
     alt="Exporess"
     title="Express" 
@@ -112,7 +106,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
 />
-
 <img 
     alt="Electron"
     title="Electron" 
@@ -120,7 +113,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" 
 />
-
 <img
     alt="Next.js"
     title="Next.js"
@@ -128,7 +120,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 />
-
 <img  
     alt="Tailwind" 
     title="Tailwind"
@@ -137,11 +128,8 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 </p>
-
 <br clear="all" />
-
 <p align="center">
-    
 <!-- <img 
     alt="SASS" 
     title="SASS"
@@ -149,7 +137,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 /> -->
-
 <img 
     alt="PHP" 
     title="PHP"
@@ -157,7 +144,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
 <!-- <img
     alt="Laravel"
     title="Laravel"
@@ -165,7 +151,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
 /> -->
-
 <img 
     alt="Git" 
     title="Git"
@@ -173,7 +158,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 <img 
     alt="Python" 
     title="Python"
@@ -181,7 +165,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     alt="Dart" 
     title="Dart"
@@ -189,7 +172,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
 />
-
 <img 
     alt="Flutter" 
     title="Flutter"
@@ -197,7 +179,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
-
 <img  
     alt="Prisma" 
     title="Prisma"
@@ -205,15 +186,13 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
 />
-
 <img  
     alt="Drizzle" 
     title="Drizzle"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drizzle/drizzle-original.svg" 
+    src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/lineage/drizzle.svg" 
 />
-
 <img 
     alt="PostgreSQL" 
     title="PostgreSQL"
@@ -221,7 +200,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
-
 <img 
     alt="Supabase" 
     title="Supabase"
