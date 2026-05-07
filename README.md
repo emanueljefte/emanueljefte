@@ -42,6 +42,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 
 ### 🤖 Linguagens e Tecnologias
 
+<p>
 <img 
     align="left" 
     alt="HTML"
@@ -147,7 +148,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
----
+<br/>
 <img 
     align="left" 
     alt="SASS" 
@@ -246,9 +247,9 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" 
 />
+</p>
 
 <br/>
----
 
 ## 🧠 Minha Filosofia de Desenvolvimento
 
