@@ -42,9 +42,8 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 
 ### 🤖 Linguagens e Tecnologias
 
-<p>
+<p align="center">
 <img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -52,7 +51,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -60,7 +58,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -69,7 +66,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img
-    align="left"
     alt="TypeScript"
     title="TypeScript"
     width="30px"
@@ -78,7 +74,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -87,7 +82,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img 
-    align="left" 
     alt="React-Native"
     title="React-Native" 
     width="30px" 
@@ -96,7 +90,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img 
-    align="left" 
     alt="Expo"
     title="Expo" 
     width="30px" 
@@ -104,8 +97,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" 
 />
 
-<img 
-    align="left" 
+<img  
     alt="NodeJS"
     title="NodeJS" 
     width="30px" 
@@ -113,8 +105,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
-<img 
-    align="left" 
+<img  
     alt="Exporess"
     title="Express" 
     width="30px" 
@@ -123,7 +114,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img 
-    align="left" 
     alt="Electron"
     title="Electron" 
     width="30px" 
@@ -132,7 +122,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img
-    align="left"
     alt="Next.js"
     title="Next.js"
     width="30px"
@@ -140,8 +129,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 />
 
-<img 
-    align="left" 
+<img  
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -152,19 +140,17 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 
 <br clear="all" />
 
-<p>
+<p align="center">
     
-<img 
-    align="left" 
+<!-- <img 
     alt="SASS" 
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+/> -->
 
 <img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -173,7 +159,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <!-- <img
-    align="left"
     alt="Laravel"
     title="Laravel"
     width="30px"
@@ -182,7 +167,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 /> -->
 
 <img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -191,7 +175,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -200,7 +183,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img 
-    align="left" 
     alt="Dart" 
     title="Dart"
     width="30px" 
@@ -209,7 +191,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img 
-    align="left" 
     alt="Flutter" 
     title="Flutter"
     width="30px" 
@@ -217,8 +198,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 
-<img 
-    align="left" 
+<img  
     alt="Prisma" 
     title="Prisma"
     width="30px" 
@@ -226,8 +206,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
 />
 
-<img 
-    align="left" 
+<img  
     alt="Drizzle" 
     title="Drizzle"
     width="30px" 
@@ -236,7 +215,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img 
-    align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="30px" 
@@ -245,7 +223,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 
 <img 
-    align="left" 
     alt="Supabase" 
     title="Supabase"
     width="30px" 
