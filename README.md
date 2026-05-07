@@ -147,7 +147,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-
+<br/>
 <img 
     align="left" 
     alt="SASS" 
@@ -247,7 +247,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" 
 />
 
----
+<br/>
 
 ## 🧠 Minha Filosofia de Desenvolvimento
 
@@ -256,8 +256,6 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 * **Clean Code:** Código sustentável para fácil manutenção.
 * **UI/UX:** Interfaces que facilitam a jornada do usuário.
 * **Visão de Produto:** Otimização de recursos e foco na entrega real.
-
----
 
 <br/>
 <br/>
