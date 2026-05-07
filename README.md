@@ -149,6 +149,9 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 </p>
+
+<br clear="all" />
+
 <p>
     
 <img 
@@ -251,8 +254,7 @@ Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado ang
 />
 </p>
 
-<br/>
-<br/>
+<br clear="all"/>
 
 ## 🧠 Minha Filosofia de Desenvolvimento
 
