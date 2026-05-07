@@ -3,11 +3,23 @@
 - Pelo Instagram: www.instagram.com/emanuel_dingani/
 - Pelo Linkedin: www.linkedin.com/in/emanuel-jeft%C3%A9-dingani-jo%C3%A3o/ -->
 
-# 👩🏻‍💻 Emanuel Jefté
+# Olá, eu sou o Emanuel Jefté! 👋
 
-**`Desenvolvedor FullStack`**
+### Software Developer | React Native Specialist | Product Enthusiast
 
-Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Angola. Concluíndo a Faculdade na Universidade de Luanda - INSTIC, com o curso em Engenhária Informática. Sou apaixonado por programação, principalmente o web e stou aberto para colaborar com todos, tem uma ideia estou aqui! E também através do Facebook, com o perfil chamado "[Emanuel Jebs](https://www.facebook.com/emanuel.jefte.3/)".
+Sou um desenvolvedor Angolano, focado em criar soluções tecnológicas que impactam o dia a dia das pessoas. Acredito que um código sustentável e uma interface impecável são os pilares de um produto de sucesso.
+
+---
+
+## 🚀 O que estou construindo agora?
+
+Atualmente, dedico meu tempo ao desenvolvimento de soluções para o mercado angolano:
+
+* **Kwanza_Controlo**: App de gestão financeira pessoal com integração ao sistema EMIS.
+* **EdificaQuiz**: Gamificação educativa para estudantes da Escola da Edificação.
+* **MLO**: Projeto focado na digitalização e modernização do serviço de táxis.
+
+---
 
 <p align="left">
     <a href="https://github.com/emanueljefte?tab=repositories&sort=stargazers">
@@ -55,14 +67,14 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<!-- <img
+<img
     align="left"
     alt="TypeScript"
     title="TypeScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/> -->
+/>
 
 <img 
     align="left" 
@@ -72,6 +84,25 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="React-Native"
+    title="React-Native" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react-native/react-native-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Expo"
+    title="Expo" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="NodeJS"
@@ -80,23 +111,24 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Electron"
+    title="Electron" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" 
 />
 
-<!-- <img
+<img
     align="left"
     alt="Next.js"
     title="Next.js"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/> -->
+/>
 
 <img 
     align="left" 
@@ -106,6 +138,7 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+
 <img 
     align="left" 
     alt="SASS" 
@@ -114,6 +147,7 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
+
 <img 
     align="left" 
     alt="PHP" 
@@ -140,6 +174,7 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -148,6 +183,7 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Dart" 
@@ -156,6 +192,7 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Flutter" 
@@ -165,10 +202,58 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Prisma" 
+    title="Prisma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Drizzle" 
+    title="Drizzle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drizzle/drizzle-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Supabase" 
+    title="Supabase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" 
+/>
+
+---
+
+## 🧠 Minha Filosofia de Desenvolvimento
+
+> "Não desenvolvo apenas funcionalidades; desenvolvo utilidade. Se não agrega valor ao utilizador final, é excesso."
+
+* **Clean Code:** Código sustentável para fácil manutenção.
+* **UI/UX:** Interfaces que facilitam a jornada do usuário.
+* **Visão de Produto:** Otimização de recursos e foco na entrega real.
+
+---
+
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📈 Estatísticas do GitHub
 
 <p>
   <img 
@@ -186,3 +271,11 @@ Me chamo Emanuel Jefté Dingani João, tenho 22 anos e sou natural de Luanda/Ang
 />
 
 </p>
+
+---
+
+## 📫 Vamos conversar?
+
+* 💼 [LinkedIn](www.linkedin.com/in/emanuel-jeft%C3%A9-dingani-jo%C3%A3o/)
+* 📧 [Email](mailto:emanueldinganijoao13@gmail.com)
+* 🌍 Luanda, Angola
